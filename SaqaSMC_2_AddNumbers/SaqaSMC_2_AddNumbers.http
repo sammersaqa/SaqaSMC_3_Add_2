@@ -1,0 +1,6 @@
+@SaqaSMC_2_AddNumbers_HostAddress = http://localhost:5184
+
+GET {{SaqaSMC_2_AddNumbers_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaqaSMC_2_AddNumbers", "SaqaSMC_2_AddNumbers\SaqaSMC_2_AddNumbers.csproj", "{ABB40E1A-94EA-07BA-F9CC-43C6B82A62E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABB40E1A-94EA-07BA-F9CC-43C6B82A62E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB40E1A-94EA-07BA-F9CC-43C6B82A62E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB40E1A-94EA-07BA-F9CC-43C6B82A62E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB40E1A-94EA-07BA-F9CC-43C6B82A62E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB5DC043-B822-41A7-A5D8-D394C8F2063E}
+	EndGlobalSection
+EndGlobal
