@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SaqaSMC_2_AddNumbers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eea4ae1f81a9d97bbff548e1185145c0eb43fb34")]
 [assembly: System.Reflection.AssemblyProductAttribute("SaqaSMC_2_AddNumbers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SaqaSMC_2_AddNumbers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
